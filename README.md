@@ -72,10 +72,8 @@ endmodule
 ![image](https://github.com/user-attachments/assets/849d6b20-5cd0-450a-858a-f7d8411ca2bd)
 
 
-RESULTS:
-
-Thus D flipflop is implemented using verilog and their functionality using their functional tables is validated
-
 
 
 **RESULTS**
+
+Thus D flipflop is implemented using verilog and their functionality using their functional tables is validated
